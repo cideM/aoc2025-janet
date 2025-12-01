@@ -1,0 +1,9 @@
+.envrc
+.direnv
+tags
+result
+*.txt
+.nvimrc
+jpm_tree
+!LICENSE.*
+*.dot
