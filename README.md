@@ -15,12 +15,12 @@ Start file watcher and re-run a specific day
 $ set day "d19"; fd -e janet -e txt --no-ignore | entr -c -s "janet $day/main.janet < $day/in.txt"
 ```
 
-## Progress (1/12)
+## Progress (2/12)
 
 |     | Janet  | Solution Comment                                                               |
 | --- | ------ | ------------------------------------------------------------------------------ |
 | 1   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pb3y8p/comment/nrq6fdq) |
-| 2   | :zzz:  |                                                                                |
+| 2   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pbzqcx/comment/nrxn219) |
 | 3   | :zzz:  |                                                                                |
 | 4   | :zzz:  |                                                                                |
 | 5   | :zzz:  |                                                                                |
@@ -64,7 +64,7 @@ To copy snippets from code directly, select it and then run:
 ```text
 [LANGUAGE: Janet]
 
-26 lines with `wc -l`.
+26 lines with `tokei` when formatting with `janet-format` (from Spork).
 
 - [GitHub Repository](https://github.com/cideM/aoc2025-janet)
 - [Topaz Paste]()
