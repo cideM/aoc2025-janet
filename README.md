@@ -15,14 +15,14 @@ Start file watcher and re-run a specific day
 $ set day "d19"; fd -e janet -e txt --no-ignore | entr -c -s "janet $day/main.janet < $day/in.txt"
 ```
 
-## Progress (2/12)
+## Progress (3/12)
 
 |     | Janet  | Solution Comment                                                               |
 | --- | ------ | ------------------------------------------------------------------------------ |
 | 1   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pb3y8p/comment/nrq6fdq) |
 | 2   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pbzqcx/comment/nrxn219) |
 | 3   | :zzz:  |                                                                                |
-| 4   | :zzz:  |                                                                                |
+| 4   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pdr8x6/comment/ns7rsu5) |
 | 5   | :zzz:  |                                                                                |
 | 6   | :zzz:  |                                                                                |
 | 7   | :zzz:  |                                                                                |
@@ -31,18 +31,6 @@ $ set day "d19"; fd -e janet -e txt --no-ignore | entr -c -s "janet $day/main.ja
 | 10  | :zzz:  |                                                                                |
 | 11  | :zzz:  |                                                                                |
 | 12  | :zzz:  |                                                                                |
-| 13  | :zzz:  |                                                                                |
-| 14  | :zzz:  |                                                                                |
-| 16  | :zzz:  |                                                                                |
-| 17  | :zzz:  |                                                                                |
-| 18  | :zzz:  |                                                                                |
-| 19  | :zzz:  |                                                                                |
-| 20  | :zzz:  |                                                                                |
-| 21  | :zzz:  |                                                                                |
-| 22  | :zzz:  |                                                                                |
-| 23  | :zzz:  |                                                                                |
-| 24  | :zzz:  |                                                                                |
-| 25  | :zzz:  |                                                                                |
 
 ## Make Reddit Code Snippet
 
