@@ -15,15 +15,15 @@ Start file watcher and re-run a specific day
 $ set day "d19"; fd -e janet -e txt --no-ignore | entr -c -s "janet $day/main.janet < $day/in.txt"
 ```
 
-## Progress (4/12)
+## Progress (5/12)
 
 |     | Done   | Solution Comment                                                                             |
 | --- | ------ | -------------------------------------------------------------------------------------------- |
-| 1   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pb3y8p/comment/nrq6fdq)               |
-| 2   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pbzqcx/comment/nrxn219)               |
+| 1   | :bell: | [Link](https://old.reddit.com/r/adventofcode/comments/1pb3y8p/comment/nrq6fdq)               |
+| 2   | :bell: | [Link](https://old.reddit.com/r/adventofcode/comments/1pbzqcx/comment/nrxn219)               |
 | 3   | :bell: | [Link](https://old.reddit.com/r/adventofcode/comments/1pcvaj4/2025_day_3_solutions/nsg2ufz/) |
-| 4   | :bell: | [Link](https://www.reddit.com/r/adventofcode/comments/1pdr8x6/comment/ns7rsu5)               |
-| 5   | :zzz:  |                                                                                              |
+| 4   | :bell: | [Link](https://old.reddit.com/r/adventofcode/comments/1pdr8x6/comment/ns7rsu5)               |
+| 5   | :bell: |                                                                                              |
 | 6   | :zzz:  |                                                                                              |
 | 7   | :zzz:  |                                                                                              |
 | 8   | :zzz:  |                                                                                              |
