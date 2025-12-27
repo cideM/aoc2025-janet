@@ -1,5 +1,5 @@
 {
-  description = "Description for the project";
+  description = "Advent of Code 2025 in Janet";
 
   inputs = {
     flake-parts.url = "github:hercules-ci/flake-parts";
