@@ -15,7 +15,7 @@ Start file watcher and re-run a specific day
 $ set day "d19"; fd -e janet -e txt --no-ignore | entr -c -s "janet $day/main.janet < $day/in.txt"
 ```
 
-## Progress (7/12)
+## Progress (8/12)
 
 |     | Done   | Solution Comment                                                                             |
 | --- | ------ | -------------------------------------------------------------------------------------------- |
@@ -26,7 +26,7 @@ $ set day "d19"; fd -e janet -e txt --no-ignore | entr -c -s "janet $day/main.ja
 | 5   | :bell: | [Link](https://old.reddit.com/r/adventofcode/comments/1pemdwd/2025_day_5_solutions/nvq60ef/) |
 | 6   | :bell: | [Link](https://old.reddit.com/r/adventofcode/comments/1pfguxk/2025_day_6_solutions/nvvsj0n/) |
 | 7   | :bell: | [Link](https://old.reddit.com/r/adventofcode/comments/1pg9w66/2025_day_7_solutions/nw6cz6p/) |
-| 8   | :zzz:  |                                                                                              |
+| 8   | :bell: | [Link](https://old.reddit.com/r/adventofcode/comments/1ph3tfc/2025_day_8_solutions/nw9h9wz/) |
 | 9   | :zzz:  |                                                                                              |
 | 10  | :zzz:  |                                                                                              |
 | 11  | :zzz:  |                                                                                              |
